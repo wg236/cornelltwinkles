@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620082636415",
+    "firebase_url": "https://cornell-twinkles.firebaseio.com",
+    "project_id": "cornell-twinkles",
+    "storage_bucket": "cornell-twinkles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620082636415:android:2871c4a54cef49c5a2414a",
+        "android_client_info": {
+          "package_name": "com.example.cornelltwinkles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620082636415-u3ecmq958tmqjd3hbnk9ruunmjppn8q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt1C24xlaiayHHrE32dFpdcwRHEP7Ymf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620082636415-u3ecmq958tmqjd3hbnk9ruunmjppn8q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
